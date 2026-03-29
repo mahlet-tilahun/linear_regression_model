@@ -15,3 +15,5 @@ This project predicts systolic blood pressure from demographic and clinical indi
 - **Origin**: Clinical measurements from 9,813 US civilians
 - **Files**: demographic.csv + examination.csv merged on participant ID
 - **Target**: Systolic Blood Pressure (mmHg) — continuous numeric, regression task
+
+Sawgger UI link: https://linear-regression-model-elhm.onrender.com/docs
