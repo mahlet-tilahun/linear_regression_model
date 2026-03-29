@@ -16,4 +16,27 @@ This project predicts systolic blood pressure from demographic and clinical indi
 - **Files**: demographic.csv + examination.csv merged on participant ID
 - **Target**: Systolic Blood Pressure (mmHg) — continuous numeric, regression task
 
+**Live API** : https://linear-regression-model-elhm.onrender.com/
 Sawgger UI link: https://linear-regression-model-elhm.onrender.com/docs
+
+**Video Demo**
+
+## How to Run the Flutter App
+
+1. Install Flutter SDK: https://flutter.dev/docs/get-started/install
+2. Open a terminal and navigate to the Flutter app folder:
+   ```
+   cd linear_regression_model/summative/FlutterApp
+   ```
+3. Install dependencies:
+   ```
+   flutter pub get
+   ```
+4. Connect a physical Android or iOS device, or start an emulator
+5. Run the app:
+   ```
+   flutter run
+   ```
+6. Make sure to replace the API URL in `lib/main.dart` with your deployed Render URL before running
+
+
