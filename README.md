@@ -37,6 +37,6 @@ Sawgger UI link: https://linear-regression-model-elhm.onrender.com/docs
    ```
    flutter run
    ```
-6. Make sure to replace the API URL in `lib/main.dart` with your deployed Render URL before running
+
 
 
