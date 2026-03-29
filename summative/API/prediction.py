@@ -40,7 +40,7 @@ app.add_middleware(
         "http://localhost",
         "http://localhost:8080",
         "http://localhost:3000",
-        "https://<your-render-url>.onrender.com",
+        "https://linear-regression-model-elhm.onrender.com",
     ],
     allow_credentials=True,
     allow_methods=["GET", "POST", "PUT", "DELETE"],
