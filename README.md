@@ -17,9 +17,10 @@ This project predicts systolic blood pressure from demographic and clinical indi
 - **Target**: Systolic Blood Pressure (mmHg) — continuous numeric, regression task
 
 **Live API** : https://linear-regression-model-elhm.onrender.com/
-Sawgger UI link: https://linear-regression-model-elhm.onrender.com/docs
 
-**Video Demo**
+**Swagger UI link**: https://linear-regression-model-elhm.onrender.com/docs
+
+**Demo Video**: https://youtu.be/Oe85fgPi0RA?si=Umcv5NpmRD5EHvH4
 
 ## How to Run the Flutter App
 
@@ -37,6 +38,3 @@ Sawgger UI link: https://linear-regression-model-elhm.onrender.com/docs
    ```
    flutter run
    ```
-
-
-
